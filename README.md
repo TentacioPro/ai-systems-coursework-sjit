@@ -2,7 +2,7 @@
 
 This isn't a course page. It's a shortcut I'm handing you before you waste months figuring out what to actually pay attention to.
 
-I'm Abishek — one of the people helping shape what you learn this semester. I put this together because the syllabus tells you *what* to study. Nobody tells you *how* to think about it, *where* to actually go, or *why* any of this matters right now, in 2025, when the field is moving faster than any textbook can keep up with.
+I'm Abishek — one of the people helping shape what you learn this semester. I put this together because the syllabus tells you *what* to study. Nobody tells you *how* to think about it, *where* to actually go, or *why* any of this matters right now, in 2026, when the field is moving faster than any textbook can keep up with.
 
 So this is that.
 

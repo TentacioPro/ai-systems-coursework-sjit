@@ -1,62 +1,122 @@
-# AI Systems & Version Control - SJIT Coursework
+# AI Systems & Version Control — SJIT
 
-Welcome to the supplementary resource hub for the **AI Systems & Version Control** coursework for first-year students at St. Joseph's Institute of Technology.
+This isn't a course page. It's a shortcut I'm handing you before you waste months figuring out what to actually pay attention to.
 
-> *"Hope these materials help you explore beyond what you think about AI and Computer Science in general. All the very best for the future you build, with gratitude and discipline for what you have now. Excited to see you folks build your future!"* ---
+I'm Abishek — one of the people helping shape what you learn this semester. I put this together because the syllabus tells you *what* to study. Nobody tells you *how* to think about it, *where* to actually go, or *why* any of this matters right now, in 2025, when the field is moving faster than any textbook can keep up with.
 
-## 🗺️ Choose Your Path (Roadmaps)
-
-AI is a massive field. Don't try to learn everything at once. Pick a path that sparks your curiosity to draft your own learning roadmap:
-
-### 🛠️ Path A: The "Builder" (I want to make cool apps)
-*Focus on how to use AI to build software fast.*
-1. Learn basic Prompting & Context Engineering.
-2. Master GitHub and AI coding assistants (Claude Code / Cursor).
-3. Build a UI using AI design tools.
-4. Hook up an API and launch it.
-
-### 🧠 Path B: The "Mechanic" (I want to know how it works)
-*Focus on the math, the models, and the architecture.*
-1. Learn what a Token and an Embedding actually are.
-2. Watch the 3Blue1Brown Neural Network series.
-3. Download Ollama and run local models.
-4. Dive into Andrej Karpathy's "nanoGPT" repo.
+So this is that.
 
 ---
 
-## 📺 The Curiosity Vault (Video & Channel Links)
+## Before you open a single link
 
-Forget boring lectures. These are the absolute best creators on the internet for understanding AI.
+You're in your first year. You don't need to know everything.  
+You need to know enough to get curious — and then stay curious longer than everyone else in your batch.
 
-### 1. The Core Mechanics (How do LLMs actually think?)
-* **[Andrej Karpathy: Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)** - The best video on the internet for understanding how AI reads text.
-* **[Andrej Karpathy: State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)** - A brilliant overview of how we train these models.
-* **[3Blue1Brown: Attention in Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)** - Mind-blowing visual math showing how AI pays "attention" to words.
-* **[Welch Labs](https://www.youtube.com/@welchlabs/videos)** - Incredible deep dives into machine learning concepts.
+The students who win aren't the ones who finish all the tutorials.  
+They're the ones who build something ugly, break it, and build it again.
 
-### 2. The Hacker's Den (Running AI on your own machine)
-* **[NetworkChuck: You need to run your own AI](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)** - A highly energetic, fun guide to running local LLMs using Ollama.
-* **[David Bombal](https://www.youtube.com/@davidbombal)** - Networking, cybersecurity, and practical AI coding tutorials.
-
-### 3. The Future (Where is the industry going?)
-* **[AI Engineer Channel](https://www.youtube.com/@AIEngineerFoundation)** - Stay updated on Agentic Workflows, Model Context Protocol (MCP), and what's next after chat interfaces.
+That's the only thing I'll keep repeating.
 
 ---
 
-## 📁 Essential Repositories & Course Materials
+## Join the group
 
-Bookmark these. You will need them.
-
-* **[Kaggle x Google: 5-Day GenAI Intensive](https://www.kaggle.com/learn-guide/5-day-genai)** - Hands-on notebooks to get you coding with GenAI fast.
-* **[Andrej Karpathy's GitHub](https://github.com/karpathy)** - Dive into `nanoGPT` or `minbpe`. If you want to see how the greatest engineers write clean, minimal AI code, look here.
-* *(Note: PDF Whitepapers and Cheatsheets will be uploaded directly to the `materials/` folder in this repo!)*
+New whitepapers, tools, and roadmap updates get dropped here first.  
+**[SJIT AI Resources — WhatsApp Group →](https://chat.whatsapp.com/EE6Pzpci6wbFH2DbFDpW3P?mode=gi_t)**
 
 ---
 
-## 👨‍💻 A Note from the Creator
+## Your fastest weapon right now: NotebookLM
 
-Don't just consume tutorials—build things that matter to you. 
+You will be handed dense PDFs and long whitepapers this year.  
+Don't read them linearly. That's not how engineers learn.
 
-If you want to see what building looks like in practice, **[explore my other GitHub repositories](https://github.com/TentacioPro)**. You can check out some of my personal projects, where I tinker with autonomous Personal Knowledge Systems, AI agentic workflows, scalable architectures, and minimal UI designs. Feel free to fork my code, break it, and build your own versions.
+Go to [notebooklm.google.com](https://notebooklm.google.com), drop in any PDF from this repo, and do this:
 
-Keep building!
+- Hit **Audio Overview** — two AI hosts will discuss the whole document. Listen on the bus.
+- Then open the chat and ask:
+  - *"Explain this to me like I'm a 1st-year engineering student."*
+  - *"What are the 3 things I absolutely need to understand from this?"*
+  - *"Quiz me on this chapter."*
+
+This alone will put you 2 weeks ahead of anyone who's just highlighting text.
+
+---
+
+## Pick one path. Go deep. Switch later.
+
+Don't try to learn everything at once. AI is a large field and nobody has the full map.  
+Pick what pulls you, go deep on it, then expand.
+
+**Path A — The Builder**  
+*You want to ship things.*  
+Prompting → GitHub + AI coding tools (Claude Code / Cursor) → build a UI → hook up an API → launch something. Repeat.
+
+**Path B — The Mechanic**  
+*You want to understand what's actually happening under the hood.*  
+Tokens → Embeddings → 3Blue1Brown's attention series → Ollama → Karpathy's nanoGPT. Build a tiny LLM. Watch it fail. Understand why.
+
+Neither path is better. The best engineers eventually walk both.
+
+---
+
+## What to actually watch
+
+I'm not giving you a list of 40 channels. You won't watch them.  
+These are the ones worth your time — and why.
+
+**For foundations**  
+→ **CS50 (Harvard)** — if you don't have strong CS basics yet, start here. No shame. It's the best intro on the internet.  
+→ **3Blue1Brown** — the only person who can make you genuinely *see* what attention mechanisms are doing inside a transformer.  
+→ **Welch Labs** — slower, richer. For when you want the full story, not just the shape of the idea.
+
+**For building**  
+→ **Fireship** — fast, ruthless, honest about what matters in modern dev. Watch when you need to know if something is worth learning.  
+→ **Cole Medin** — hands-on AI app builds. Closest to what real prototyping looks like.  
+→ **freeCodeCamp** — when you need a full walkthrough, not a summary.
+
+**For local AI and systems**  
+→ **NetworkChuck** — running local models, networking, tools. Treats you like an adult who can figure things out.  
+→ **David Bombal** — cybersecurity, AI tools, practical infrastructure.
+
+**For staying current**  
+→ **AI Engineer Foundation** — MCP, agentic systems, what's replacing chat. This is where the industry is going.  
+→ **Andrej Karpathy** — no list is complete without him. Watch *State of GPT* and *Let's build the GPT Tokenizer* at minimum.  
+→ **Varun Mayya** — careers, products, Indian startup ecosystem. Useful context for where you're building toward.
+
+---
+
+## Free courses — use these before they're gone
+
+These are live right now. No cost. Grab them while they're available.
+
+→ **[AI Skill House — IICT](https://aiskillhouse.iict.org/)** — curated AI learning from the institution. Start here if you want something structured and locally relevant.  
+→ **[Google Skills](https://www.skills.google/)** — Google's official learning hub. Covers AI, cloud, and developer fundamentals with certificates.  
+→ **[Anthropic Courses](https://anthropic.skilljar.com/)** — straight from the people who build Claude. Prompt engineering and responsible AI, taught by the source.
+
+No account fees. No paywalls. Just go.
+
+---
+
+## Essential repositories
+
+→ **[Kaggle × Google: 5-Day GenAI Intensive](https://www.kaggle.com/learn-guide/5-day-genai)** — run the notebooks, not just read them.  
+→ **[Andrej Karpathy on GitHub](https://github.com/karpathy)** — specifically `nanoGPT`. Read the code. Even if you don't understand all of it yet.
+
+Whitepapers and cheatsheets land directly in `materials/` as the semester progresses.
+
+---
+
+## What I'm actually working on
+
+If you want to see what building looks like beyond assignments:  
+**[github.com/TentacioPro](https://github.com/TentacioPro)**
+
+Personal projects — autonomous knowledge systems, agentic workflows, minimal interfaces. Fork whatever interests you. Break it. Build your version.
+
+**→ [LinkedIn](https://www.linkedin.com/in/abishek-maharajan/) · [X @abizhek_m](https://x.com/abizhek_m)**
+
+---
+
+*Gratitude and discipline. For what you have now, and for what you're going to build.*

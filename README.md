@@ -57,6 +57,6 @@ Bookmark these. You will need them.
 
 Don't just consume tutorials—build things that matter to you. 
 
-If you want to see what building looks like in practice, **[explore my other GitHub repositories](https://github.com/)**. You can check out some of my personal projects, where I tinker with autonomous Personal Knowledge Systems, AI agentic workflows, scalable architectures, and minimal UI designs. Feel free to fork my code, break it, and build your own versions.
+If you want to see what building looks like in practice, **[explore my other GitHub repositories](https://github.com/TentacioPro)**. You can check out some of my personal projects, where I tinker with autonomous Personal Knowledge Systems, AI agentic workflows, scalable architectures, and minimal UI designs. Feel free to fork my code, break it, and build your own versions.
 
 Keep building!
